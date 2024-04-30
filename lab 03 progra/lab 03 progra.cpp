@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-
 class Shape { //declara la clase Shape
 public:    //indica que los siguientes miembros serán accesibles fuera de esta definición
 //Virtual voild es una declaración de función virtual pura, es decir es una funcion que se volvera ha definir en clases derivadas.
